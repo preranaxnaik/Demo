@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me - https://bit.ly/prerana-naik
 - 😄 Pronouns: she
-- ⚡ Fun fact: Newbie atr Coding Skills
+- ⚡ Fun fact: Newbie at Coding Skills
 
 <!---
 preranaxnaik/preranaxnaik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
